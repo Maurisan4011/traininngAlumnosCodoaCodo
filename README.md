@@ -1,4 +1,4 @@
-## Codo a Codo 4.0
+﻿## Codo a Codo 4.0
 ------------------
 # Repo creado con la finalidad de que les Alumnes puedan practicar sentencias de Git.
 
@@ -12,3 +12,8 @@
  ░█▀░░█▀█░█░░█░█░░█░░█░░█░█░
  ░▀░░░▀░▀░▀▀░▀░▀▀░▀░░▀░░▀▀▀░
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+# ANDRES ACOSTA DICE:
+	SALIO, AH NADA.
+
+
