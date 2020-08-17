@@ -24,3 +24,6 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░▄▄░░█░░░░░░░░░░░█░░▄▄░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░█▄▄█░█░░▀░░┬░░▀░░█░█▄▄█░░░░░░░░░░░░░░░░░░░░░░░
 
+# Mauri DICE:
+## Esto se va a descontrolar 
+![piter-19-aprelya-vstrecha-JUG-ru-c-glebom-smirnovym-kak-vsyo-isportit-svoim-Java-agentom](https://user-images.githubusercontent.com/33258971/90411526-4ec31700-e082-11ea-93d9-872dd6f70c58.jpg)
