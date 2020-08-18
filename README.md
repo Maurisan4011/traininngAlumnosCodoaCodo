@@ -27,3 +27,23 @@
 # Mauri DICE:
 ## Esto se va a descontrolar 
 ![piter-19-aprelya-vstrecha-JUG-ru-c-glebom-smirnovym-kak-vsyo-isportit-svoim-Java-agentom](https://user-images.githubusercontent.com/33258971/90411526-4ec31700-e082-11ea-93d9-872dd6f70c58.jpg)
+
+# Viviana Bianco dice:
+
+                     (\___/)
+                     \ (, ,)
+                     c\   >'
+                       )o_/
+           /\     ____/ /__    ,_
+          /  \ __/  `  ~   )  / _///
+         /_ %%%___%, . ' .) \ /#                _____________
+           %%% = =%    , / \ / |               |        '\\\\\\
+         ___%%   > __..,;   \,/                |        ' ____|_
+        /'  \_% ^ %  \:,#                      |   +    '||::::::
+       /       %%%% .'%#.%                     |        '||_____|
+      /. ,-    O    < \%"#                     '________|_____|
+     (\ <'     '  |\ / '-.___                  ___/____|___\___
+    _.\__\________\_\___/), |\\_______________|    _    '  <<<:|
+                                              |_________'___o_o| b'ger
+
+                "I definitely think we're in trouble..."
