@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    height: 100%;
+    content: "";
+    display: table;
+    clear: both;
+    background-color: rgb(255, 254, 254);
+}
+
+.columnas {
+    float: left;
+    padding: 10px;
+    height: 100%;
+}
+
+.izquierda {
+    width: 40%;
+    background-color: rgb(7, 88, 211);
+}
+
+.derecha {
+    width: 60%;
+}
