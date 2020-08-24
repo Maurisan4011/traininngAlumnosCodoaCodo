@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> FORMULARIO </title> 
+    </head>
+    <body background="imagenes/coronavirus.jpg">
+        <header>
+            <nav style="text-align: right;">
+                <a style="background-color: gold;" href="index.html" > Inicio</a>
+                <a style="background-color: gold;" href="about.html"> Prevencion </a>
+                <a style="background-color: gold;" href="contact.html">Contacto</a>
+                <a style="background-color: gold;" href="formulario.html">Formulario</a>
+            </nav>
+            <div style="color: white;">
+                <h1 style="text-align: center;">FORMULARIO SOBRE SINTOMAS</h1>
+            </div>
+                
+        </header>
+        <br>
+        <div style="text-align: center;">
+            <form style="color:white;">
+                <label> Nombres: </label><input type="text"> <br><br>
+                <label> Apellido: </label><input type="text"> <br><br>
+                <label> Fecha Nacimiento: </label><input type="date"> <br><br>
+                <label> Numero Tel / Celular: </label><input type="tel"><br><br>
+                <label> E-mail: </label><input type="email"><br><br>
+                <div>
+                <label>GENERO: </label>
+                <input type="radio" id="Hombre" name="GENERO" value="male">
+                <label for="Hombre"> Hombre</label>
+                <input type="radio" id="Mujer" name="GENERO" value="mujer">
+                <label for="mujer">Mujer</label>
+                <input type="radio" id="otro" name="GENERO" value="otro">
+                <label for="otro">Otro</label>
+                </div>
+                <br>
+                <label>DESCRIBA LOS SINTOMAS ABAJO: </label><br>
+                <textarea name="sintomas" rows="10" cols="30"></textarea>
+                <br>
+                <button type="submit"> ENVIAR </button>
+            </form>
+        <footer>
+
+        </footer>
+    </body>
+
+</html>
