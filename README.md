@@ -1,4 +1,4 @@
-﻿## Codo a Codo 4.0
+## Codo a Codo 4.0
 ------------------
 # Repo creado con la finalidad de que les Alumnes puedan practicar sentencias de Git.
 
@@ -68,11 +68,14 @@
     ╬═╬/▌
     ╬═╬/ \
 
-<<<<<<< HEAD
-				
-=======
-# nadina dice:			
-=======
 # Nadina Montani dice:			
+  
+████████████████████████████████████████████████████████████
+█─█─█─▄▄─█▄─▄████▀▄─████▄─▀█▀─▄█▄─██─▄█▄─▀█▄─▄█▄─▄▄▀█─▄▄─█░█
+█─▄─█─██─██─██▀██─▀─█████─█▄█─███─██─███─█▄▀─███─██─█─██─█▄█
+▀▄▀▄▀▄▄▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▄▀
 
+#Roberto Zitto dice: 
+
+a ver si no rompi nadaaa...
 				
